@@ -14,7 +14,7 @@
 
 ### About Me
 
-- 🎓 **3rd-year Software Engineering undergraduate** (English-medium program) at **Istanbul Health and Technology University** (GPA: `3.14 / 4.00`)
+- 🎓 **3rd-year Software Engineering undergraduate** (English-medium program) at **Istanbul Health and Technology University**
 - 🛠️ Focusing on **Data Engineering** — building cloud ETL/ELT pipelines, Medallion data warehouses, relational data models, and automated data workflows
 - 💼 Former **IT Intern** at **Zer Yağ Sanayi Ticaret A.Ş. (Zer Holding)** — designed warehouse/inventory database schemas and built an internal stock management mobile app
 - 🌱 Actively building hands-on projects with **dbt Core**, **Microsoft Azure**, and **Databricks**
